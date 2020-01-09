@@ -1,4 +1,14 @@
 www, WWW (World Wide Web)
+ 2019, , Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild
+  Amin Kharraz, University of Illinois Urbana-Champaign
+  Zane Ma, University of Illinois Urbana-Champaign
+  Paul Murley, University of Illinois Urbana-Champaign
+  Charles Lever, Georgia Institute of Technology
+  Joshua Mason, University of Illinois Urbana-Champaign
+  Andrew Miller, University of Illinois Urbana-Champaign
+  Nikita Borisov, University of Illinois Urbana-Champaign
+  Manos Antonakakis, Georgia Institute of Technology
+  Michael Bailey, University of Illinois Urbana-Champaign
  2018, , HighLife: Higher-arity Fact Harvesting
   Patrick Ernst, Saarland Informatics CampusSaarbr&uuml;cken
   Amy Siu, Saarland Informatics CampusSaarbr&uuml;cken
@@ -97,6 +107,12 @@ www, WWW (World Wide Web)
   Kevin C. Almeroth, University of California Santa Barbara
   Mostafa H. Ammar, Georgia Institute of Technology
 sigir, SIGIR (Information Retrieval)
+ 2019, , Variance Reduction in Gradient Exploration for Online Learning to Rank
+  Huazheng Wang, University of Virginia
+  Sonwoo Kim, University of Virginia
+  Eric McCord-Snook, University of Virginia
+  Qingyun Wu, University of Virginia
+  Hongning Wang, University of Virginia
  2018, , Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems
   Roc&iacute;o Ca&ntilde;amares, Universidad Aut&oacute;noma de Madrid
   Pablo Castells, Universidad Aut&oacute;noma de Madrid
@@ -193,6 +209,11 @@ sigir, SIGIR (Information Retrieval)
   Karen Sp&auml;rck Jones, University of Cambridge
   Steve Young, University of Cambridge
 aaai, AAAI (Artificial Intelligence)
+ 2019, , How to Combine Tree-Search Methods in Reinforcement Learning
+  Yonathan Efroni, Technion
+  Gal Dalal, Technion
+  Bruno Scherrer, INRIA, Villers les Nancy
+  Shie Mannor, Technion
  2018, , Memory-Augmented Monte Carlo Tree Search
   Chenjun Xiao, University of Alberta
   Jincheng Mei, University of Alberta
@@ -334,6 +355,12 @@ aaai, AAAI (Artificial Intelligence)
   Alon Y. Levy, AT&amp;T Laboratories
   Marie-Christine Rousset, Universit&eacute; Paris-Sud
 cikm, CIKM (Knowledge Management)
+ 2019, , AutoGRD: Model Recommendation Through Graphical Dataset Representation
+  Noy Cohen, Ben Gurion University of the Negev
+  Lior Rokach, Ben Gurion University of the Negev
+  Bracha Shapira, Ben Gurion University of the Negev
+  Gilad Katz, Ben Gurion University of the Negev
+  Roman Vainshtein, Ben Gurion University of the Negev
  2018, , Relevance estimation with multiple information sources on search engine result pages
   Junqi Zhang, Tsinghua University
   Yiqun Liu, Tsinghua University
@@ -408,6 +435,170 @@ cikm, CIKM (Knowledge Management)
   Mukesh Mohania, IBM Research
   Yahiko Kambayashi, Kyoto University
 chi, CHI (Human-Computer Interaction)
+ 2019, , “Occupational Therapy is Making”: Design Iteration and Digital Fabrication in Occupational Therapy
+  Megan Hofmann, Carnegie Mellon University
+  Kristin Williams, Carnegie Mellon University
+  Toni Kaplan, Carnegie Mellon University
+  Stephanie Valencia, Carnegie Mellon University
+  Gabriella Han, Carnegie Mellon University
+  Scott E Hudson, Carnegie Mellon University
+  Jennifer Mankoff, University of Washington
+  Patrick Carrington, Carnegie Mellon University
+ 2019, , “I feel it is my responsibility to stream”: Streaming and Engaging with Intangible Cultural Heritage through Livestreaming
+  Zhicong Lu, University of Toronto
+  Michelle Annett, University of Toronto
+  Mingming Fan, University of Toronto
+  Daniel Wigdor, University of Toronto
+ 2019, , Guerilla Warfare and the Use of New (and Some Old) Technology: Lessons from FARC’s Armed Struggle in Colombia
+  Débora de Castro Leal, University of Siegen
+  Max Kr&uuml;ger, University of Siegen
+  Kaoru Misaki, University of Siegen
+  David Randall, University of Siegen
+  Volker Wulf, Institute of Information Systems and New Media, Siegen, Germany
+ 2019, , Investigating Slowness as a Frame to Design Longer-Term Experiences with Personal Data: A Field Study of Olly
+  William Odom, Simon Fraser University
+  Ron Wakkary, Eindhoven University of Technology & Simon Fraser University
+  Jeroen Hol, Eindhoven University of Technology
+  Bram Naus, Eindhoven University of Technology
+  Pepijn Verburg, Eindhoven University of Technology
+  Tal Amram, Simon Fraser University
+  Amy Yo Sue Chen, Simon Fraser University
+ 2019, , Engagement with Mental Health Screening on Mobile Devices: Results from an Antenatal Feasibility Study
+  Kevin Doherty, Trinity College Dublin
+  Jose Marcano-Belisario, Imperial College London
+  Martin Cohn, Imperial College London
+  Nikolaos Mastellos, Imperial College London
+  Cecily Morrison, Microsoft Research Cambridge
+  Josip Car, Imperial College London
+  Gavin Doherty, Trinity College Dublin
+ 2019, , Anchored Audio Sampling: A Seamless Method for Exploring Children’s Thoughts During Deployment Studies
+  Alexis Hiniker, University of Washington
+  Jon Froehlich, University of Washington
+  Mingrui Ray Zhang, University of Washington
+  Erin Beneteau, University of Washington
+ 2019, , Unremarkable AI: Fitting Intelligent Decision Support into Critical, Clinical Decision-Making Processes
+  Qian Yang, Carnegie Mellon University
+  Aaron Steinfeld, Carnegie Mellon University
+  John Zimmerman, Carnegie Mellon University
+ 2019, , Online grocery delivery services: An opportunity to address food disparities in transportation-scarce areas
+  Tawanna R Dillahunt, University of Michigan
+  Sylvia Simioni, University of Michigan
+  Xuecong Xu, University of Michigan
+ 2019, , Voice User Interfaces in Schools: Co-designing for Inclusion With Visually-Impaired and Sighted Pupils
+  Oussama Metatla, University of Bristol
+  Alison Oldfield, University of Bristol
+  Taimur Ahmed, University of Bristol
+  Antonis Vafeas, University of Bristol
+  Sunny Miglani, University of Bristol
+ 2019, , Increasing the Transparency of Research Papers with Explorable Multiverse Analyses
+  Pierre Dragicevic, Inria
+  Yvonne Jansen, CNRS – Sorbonne Université
+  Abhraneel Sarma, University of Michigan
+  Matthew Kay, University of Michigan
+  Fanny Chevalier, University of Toronto
+ 2019, , Geppetto: Enabling Semantic Design of Expressive Robot Behaviors
+  Ruta Desai, Carnegie Mellon University
+  Fraser Anderson, Autodesk Research
+  Justin Matejka, Autodesk Research
+  Stelian Coros, Carnegie Mellon University
+  James Lewis McCann, Carnegie Mellon University
+  George Fitzmaurice, Autodesk Research
+  Tovi Grossman, Autodesk Research
+ 2019, , Project Sidewalk: A Web-based Crowdsourcing Tool for Collecting Sidewalk Accessibility Data At Scale
+  Manaswi Saha, University of Washington
+  Michael Saugstad, University of Washington
+  Hanuma Teja Maddali, University of Maryland
+  Aileen Zeng, University of Washington
+  Ryan Holland, Montgomery Blair High School
+  Steven Bower, University of Maryland
+  Aditya Dash, University of Maryland
+  Sage Chen, University of Michigan
+  Anthony Li, University of Maryland
+  Kotaro Hara, Singapore Management University
+  Jon Froehlich, University of Washington
+ 2019, , Touchstone2: An Interactive Environment for Exploring Trade-offs in HCI Experiment Design
+  Alexander Eiselmayer, University of Zurich
+  Chat Wacharamanotham, University of Zurich
+  Michel Beaudouin-Lafon, Université Paris-Saclay
+  Wendy Elizabeth Mackay, Université Paris-Saclay
+ 2019, , AffinityLens: Data-Assisted Affinity Diagramming with Augmented Reality
+  Hariharan Subramonyam, University of Michigan
+  Steven Drucker, Microsoft Research
+  Eytan Adar, University of Michigan
+ 2019, , A Translational Science Model for HCI
+  Lucas Franco Colusso, University of Washington
+  Ridley Jones, University of Washington
+  Sean A. Munson, University of Washington
+  Gary Hsieh, University of Washington
+ 2019, , A Tale of Two Perspectives: A Conceptual Framework of User Expectations and Experiences of Instructional Fitness Apps
+  Ahed Aladwan, The University of Melbourne
+  Ryan M Kelly, The University of Melbourne
+  Steven Baker, The University of Melbourne
+  Eduardo Velloso, The University of Melbourne
+ 2019, , Street-Level Algorithms: A Theory At The Gaps Between Policy and Decisions
+  Ali Alkhatib, Stanford University
+  Michael Bernstein, Stanford University
+ 2019, , Risk vs. Restriction: The Tension between Providing a Sense of Normalcy and Keeping Foster Teens Safe Online
+  Karla Badillo-Urquiola, University of Central Florida
+  Xinru Page, Bentley University
+  Pamela J. Wisniewski, University of Central Florida
+ 2019, , Protection, Productivity and Pleasure in the Smart Home: Emerging Expectations and Gendered Insights from Australian Early Adopters
+  Yolande Strengers, Monash University
+  Jenny Kennedy, RMIT University
+  Paula Arcari, RMIT University
+  Larissa Nicholls, RMIT University
+  Mel Gregg, Intel Corporation
+ 2019, , Detecting Personality Traits Using Eye-Tracking Data
+  Shlomo Berkovsky, Macquarie University
+  Ronnie Taib, Data61 – CSIRO
+  Irena Koprinska, University of Sydney
+  Eileen Wang, University of Sydney
+  Yucheng Zeng, University of Sydney
+  Jingjie Li, University of Wisconsin–Madison
+  Sabina Kleitman, University of Sydney
+ 2019, , ReType: Quick Text Editing with Keyboard and Gaze
+  Shyamli Sindhwani, University of Auckland
+  Christof Lutteroth, University of Bath
+  Gerald Weber, University of Auckland
+ 2019, , Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania
+  Evan Peck, Bucknell University
+  Omar El-Etr, Bucknell University
+  Sofia E Ayuso, Bucknell University
+ 2019, , PicMe: Interactive Visual Guidance for Taking Requested Photo Composition
+  Minju Kim, Korea Advanced Institute of Science and Technology
+  Jungjin Lee, KAI Inc.
+ 2019, , Managing Messes in Computational Notebooks
+  Andrew Head, UC Berkeley
+  Fred Hohman, Georgia Institute of Technology
+  Titus Barik, Microsoft
+  Steven Drucker, Microsoft Research
+  Robert DeLine, Microsoft Research
+ 2019, , A Framework for the Experience of Meaning in Human-Computer Interaction
+  Elisa D Mekler, University of Basel
+  Kasper Hornbæk, University of Copenhagen
+ 2019, , Managerial Visions: Stories of upgrading and maintaining the public restroom with IoT
+  Sarah Fox, University of California, San Diego
+  Kiley Sobel, University of Washington
+  Daniela Rosner, University of Washington
+ 2019, , Social Play in an Exergame: How the Need to Belong Predicts Adherence
+  Maximus D. Kaos, Queen’s University and Aalto University
+  Ryan Rhodes, University of Victoria
+  Perttu H&auml;tm&auml;tl&auml;tinen, Aalto University
+  T.C. Nicholas Graham, Queen’s University
+ 2019, , “Think secure from the beginning”: A Survey with Software Developers
+  Hala Assal, Carleton University
+  Sonia Chiasson, Carleton University
+ 2019, , “They don’t leave us alone anywhere we go”: Gender and Digital Abuse in South Asia
+  Nithya Sambasivan, Google
+  Amna Batool, Information Technology University
+  Nova Ahmed, North South University
+  Tara Matthews, Independent Researcher
+  Kurt Thomas, Google
+  Laura Sanely Gaytán-Lugo, Universidad de Colima
+  David Nemer, University of Kentucky
+  Elie Bursztein, Google
+  Elizabeth Churchill, Google
+  Sunny Consolvo, Google
  2018, , Agile 3D Sketching with Air Scaffolding
   Yongkwan Kim, KAIST
   Sang-Gyun An, KAIST
@@ -1370,6 +1561,10 @@ chi, CHI (Human-Computer Interaction)
   Paul M. Aoki, Palo Alto Research Center
   Allison Woodruff, Intel Research
 kdd, KDD (Data Mining)
+ 2019, , Network Density of States
+  Kun Dong, Cornell
+  Austin Benson, Cornell
+  David Bindel, Cornell
  2018, , Adversarial Attacks on Neural Networks for Graph Data
   Daniel Z&uuml;gner, Technical University of Munich
   Amir Akbarnejad, Technical University of Munich
@@ -1463,10 +1658,15 @@ kdd, KDD (Data Mining)
   Foster Provost, NYNEX Science and Technology
   Tom Fawcett, NYNEX Science and Technology
 sigmod, SIGMOD (Databases)
+ 2019, , Interventional Fairness : Causal Database Repair for Algorithmic Fairness
+  Babak Salimi, University of Washington
+  Luke Rodriguez, University of Washington
+  Bill Howe, Allen School of Computer Science
+  Dan Suciu, University of Washington
  2018, , SuRF:Practical Range Query Filtering with Fast Succinct Tries
   Huanchen Zhang, Carnegie Mellon University
   Hyeontaek Lim, Carnegie Mellon University
-  Viktor Leis, TU München
+  Viktor Leis, TU M&uuml;nchen
   David G. Andersen, Carnegie Mellon University
   Michael Kaminsky, Intel Labs
   Kimberly Keeton, Hewlett Packard Enterprise
@@ -1585,6 +1785,18 @@ sigmod, SIGMOD (Databases)
   Anand Rajaraman, Stanford University
   Jeffrey D. Ullman, Stanford University
 icml, ICML (Machine Learning)
+ 2019, , Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
+  Francesco Locatello ETH Zurich, Max-Planck Institute for Intelligent Systems
+  Stefan Bauer, Max-Planck Institute for Intelligent Systems
+  Mario Lucic, Google
+  Gunnar R&auml;ttsch, ETH Zurich
+  Sylvain Gelly, Google
+  Bernhard Sch&ouml;tlkopf, Max-Planck Institute for Intelligent Systems
+  Olivier Bachem, Google
+ 2019, , Rates of Convergence for Sparse Variational Gaussian Process Regression
+  David R. Burt, University of Cambridge
+  Carl Edward Rasmussen, University of Cambridge and PROWLER.io
+  Mark van der Wilk, PROWLER.io
  2018, , Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
   Anish Athalye, Massachusetts Institute of Technology
   Nicholas Carlini, University of California Berkeley
@@ -1674,6 +1886,19 @@ icml, ICML (Machine Learning)
  1999, http://www.cs.cmu.edu/~jab/cv/pubs/boyan.lstdl.pdf, Least-Squares Temporal Difference Learning
   Justin A. Boyan, NASA Ames Research Center
 vldb, VLDB (Databases)
+ 2019, , Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems
+  Pingcheng Ruan, National University of Singapore
+  Gang Chen, Zhejiang University
+  Tien Tuan Anh Dinh, National University of Singapore
+  Qian Lin, National University of Singapore
+  Beng Chin Ooi, National University of Singapore
+  Meihui Zhang, Beijing Institute of Technology
+ 2018, , The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing: Extended Survey
+  Siddhartha Sahu, University of Waterloo
+  Amine Mhedhbi, University of Waterloo
+  Semih Salihoglu, University of Waterloo
+  Jimmy Lin, University of Waterloo
+  M. Tamer &ouml;tzsu, University of Waterloo
  2017, , Provenance for Natural Language Queries
   Daniel Deutch, Tel-Aviv University
   Nave Frost, Tel-Aviv University
@@ -1774,6 +1999,12 @@ vldb, VLDB (Databases)
   Wee Teck Ng, University of Michigan
   Peter M. Chen, University of Michigan
 ijcai, IJCAI (Artificial Intelligence)
+ 2019, , Clause Elimination for SAT and QSAT
+  Marijn Heule, Carnegie Mellon University
+  Matti J&auml;trvisalo, University of Helsinki
+  Florian Lonsing, Stanford University
+  Martina Seidl, Johannes Kepler University
+  Armin Biere, Johannes Kepler University
  2018, , SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
   Ke Wang, Peking University
   Xiaojun Wan, Peking University
@@ -1916,6 +2147,30 @@ ijcai, IJCAI (Artificial Intelligence)
  1997, http://ijcai.org/Past%20Proceedings/IJCAI-97-VOL2/PDF/089.pdf, Applications of the Situation Calculus to Formalizing Control and Strategic Information: The Prolog Cut Operator
   Fangzhen Lin, The Hongkong University of Science and Technology
 uist, UIST (User Interface)
+ 2019, , TipText: Eyes-Free Text Entry on a Fingertip Keyboard
+  Zheer Xu, Dartmouth College
+  Pui Chung Wong, Dartmouth College and City University of Hong Kong
+  Jun Gong, Dartmouth College
+  Te-Yen Wu, Dartmouth College
+  Aditya Nittala, Saarland University
+  Xiaojun Bi, Stony Brook University
+  J&uuml;rgen Steimle, Saarland University
+  Hongbo Fu, City University of Hong Kong
+  Kening Zhu, City University of Hong Kong
+  Xing-Dong Yang, Dartmouth College
+ 2019, , Soft Inkjet Circuits: Rapid Multi-Material Fabrication of Soft Circuits using a Commodity Inkjet Printer
+  Arshad Khan, Saarland University
+  Joan Sol Roo, Saarland University
+  Tobias Kraus, Leibniz Institute for New Materials and Saarland University
+  J&uuml;rgen Steimle, Saarland University
+ 2019, , Photo-Chromeleon: Re-Programmable Multi-Color Textures Using Photochromic Dyes
+  Yuhua Jin, Massachusetts Institute of Technology
+  Isabel Qamar, Massachusetts Institute of Technology
+  Michael Wessely, Massachusetts Institute of Technology
+  Aradhana Adhikari, Massachusetts Institute of Technology
+  Katarina Bulovic, Massachusetts Institute of Technology
+  Parinya Punpongsanon, Massachusetts Institute of Technology
+  Stefanie Mueller, Massachusetts Institute of Technology
  2018, , Authoring and Verifying Human-Robot Interactions
   David Porfirio, University of Wisconsin-Madison
   Allison Sauppé, University of Wisconsin-La Crosse
@@ -2137,6 +2392,12 @@ uist, UIST (User Interface)
   Richard Anderson, University of Washington
   Bjorn Freeman-Benson, Object Technology International
 acl, ACL (Natural Language Processing)
+ 2019, , Bridging the Gap between Training and Inference for Neural Machine Translation.
+  Wen Zhang, Chinese Academy of Sciences and University of Chinese Academy of Sciences
+  Yang Feng, Chinese Academy of Sciences and University of Chinese Academy of Sciences
+  Fandong Meng, Pattern Recognition Center, WeChat AI, Tencent Inc
+  Di You, Worcester Polytechnic Institute
+  Qun Liu, Huawei Noah’s Ark Lab
  2018, , Finding syntax in human encephalography with beam search
   John Hale, Cornell University
   Chris Dyer, DeepMind
@@ -2397,6 +2658,12 @@ osdi, OSDI (Operating Systems)
   George C. Necula, Carnegie Mellon University
   Peter Lee, Carnegie Mellon University
 stoc, STOC (Theory)
+ 2019, , The Reachability Problem for Petri Nets is Not Elementary
+  Wojciech Czerwinski, University of Warsaw
+  Slawomir Lasota, University of Warsaw
+  Ranko Lazic, University of Warwick
+  Jerome Leroux, CNRS and University of Bordeaux
+  Filip Mazowiecki, University of Bordeaux
  2018, , A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem 
   Ola Svensson, &Eacute;cole Polytechnique F&eacute;d&eacute;rale de Lausanne
   Jakub Tarnawski, &Eacute;cole Polytechnique F&eacute;d&eacute;rale de Lausanne
@@ -2498,6 +2765,19 @@ stoc, STOC (Theory)
  2003, http://dx.doi.org/10.1145/780542.780603, New lattice-based cryptographic constructions
   Oded Regev, Tel-Aviv University
 focs, FOCS (Theory)
+ 2019, , Lower bounds for maximal matchings and maximal independent sets
+  Alkida Balliu, Aalto University
+  Sebastian Brandt, ETH Zurich
+  Juho Hirvonen, Aalto University
+  Dennis Olivetti, Aalto University
+  Mikaël Rabie, Aalto University and University Paris Sorbonne
+  Jukka Suomela, Aalto University
+ 2019, , NEEXP ⊆ MIP*
+  Anand Natarajan, California Institute of Technology
+  John Wright, Massachusetts Institute of Technology
+ 2019, , Automating Resolution is NP-Hard
+  Albert Atserias, Universitat Politecnica de Catalunya
+  Moritz M&uuml;ller, Universitat Politecnica de Catalunya
  2018, , Classical Verification of Quantum Computation
   Urmila Mahadev, University of California Berkeley
  2018, , Pseudorandom Sets in Grassmann Graph have Near-Perfect Expansion
@@ -2588,6 +2868,19 @@ focs, FOCS (Theory)
  2002, http://doi.ieeecomputersociety.org/10.1109/SFCS.2002.1181990, A Dichotomy Theorem for Constraints on a Three-Element Set
   Andrei A. Bulatov, University of Oxford
 sosp, SOSP (Operating Systems)
+ 2019, , Efficient and Scalable Thread-Safety Violation Detection
+  Guangpu Li, University of Chicago
+  Shan Lu, University of Chicago
+  Madanlal Musuvathi, Microsoft Research
+  Suman Nath, Microsoft Research
+  Rohan Padhye, University of California Berkeley
+ 2019, , Scaling symbolic evaluation for automated verification of systems code with Serval
+  Luke Nelson, University of Washington
+  James Bornholt, University of Washington
+  Ronghui Gu, Columbia University
+  Andrew Baumann, Microsoft Research
+  Emina Torlak, University of Washington
+  Xi Wang, University of Washington
  2017, , The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web
   Cheng Tan, New York University
   Lingfan Yu, New York University
@@ -2779,6 +3072,11 @@ sosp, SOSP (Operating Systems)
   Scott Devine, Stanford University
   Mendel Rosenblum, Stanford University
 icse, ICSE (Software Engineering)
+ 2019, , Defeating Denial-of-Service Attacks in a Self-Managing N-Variant SystemBest Paper AwardLong Paper
+  Jessica Jones, Arizona State University
+  Jason Hiser, University of Virginia
+  Jack Davidson, University of Virginia
+  Stephanie Forrest, Arizona State University
  2018, , Spatio-Temporal Context Reduction: A Pointer-Analysis- Based Static Approach for Detecting Use-After- Free Vulnerabilities
   Hua Yan, University of New South Wales
   Yulei Sui, University of Technology Sydney
@@ -2823,7 +3121,7 @@ icse, ICSE (Software Engineering)
   Jacob Rendall, University of Notre Dame
   Jin L. C. Guo, McGill University
   Jane Cleland-Huang, University of Notre Dame
-  Patrick Mäder, Technical University Ilmenau
+  Patrick M&auml;tder, Technical University Ilmenau
  2018, , Towards Optimal Concolic Testing
   Xinyu Wang, Zhejiang University
   Jun Sun, Singapore University of Technology and Design
@@ -3578,6 +3876,13 @@ fse, FSE (Software Engineering)
  2002, , Isolating Cause-Effect Chains from Computer Programs
   Andreas Zeller, Saarland University
 cvpr, CVPR (Computer Vision)
+ 2019, , A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction
+  Shumian Xin, Carnegie Mellon University 
+  Sotiris Nousias, University of Toronto, University College London
+  Kiriakos N. Kutulakos, University of Toronto
+  Aswin C. Sankaranarayanan, Carnegie Mellon University
+  Srinivasa G. Narasimhan, Carnegie Mellon University 
+  Ioannis Gkioulekas, Carnegie Mellon University 
  2018, , Taskonomy: Disentangling Task Transfer Learning
   Amir R. Zamir, Stanford University
   Alexander Sax, Stanford University
@@ -3672,6 +3977,10 @@ cvpr, CVPR (Computer Vision)
   Visvanathan Ramesh, Siemens Corporate Research
   Peter Meer, Rutgers University
 iccv, ICCV (Computer Vision)
+ 2019, , SinGAN: Learning a Generative Model from a Single Natural Image
+  Tamar Rott Shaham, Israel Institute of Technology
+  Tomer Michaeli, Israel Institute of Technology
+  Tali Dekel, Google
  2017, , Mask R-CNN
   Kaiming He, Facebook AI Research
   Georgia Gkioxari, Facebook AI Research
@@ -3897,7 +4206,82 @@ pldi, PLDI (Programming Languages)
   Sanjeev Banerjia, InCert
  1999, , Whole program paths
   James R. Larus, Microsoft Research
+neurips, NeurIPS (Machine Learning)
+ 2019, , Distribution-Independent PAC Learning of Halfspaces with Massart Noise
+  Ilias Diakonikolas, University of Southern California
+  Themis Gouleakis, Max Planck Institute for Informatics
+  Christos Tzamos, University of Wisconsin-Madison
+ 2018, , Non-delusional Q-learning and Value-iteration
+  Tyler Lu, Google AI
+  Dale Schuurmans, Google AI
+  Craig Boutilier, Google AI
+ 2018, , Optimal Algorithms for Non-Smooth Distributed Optimization in Networks
+  Kevin Scaman, Huawei Noah’s Ark Lab
+  Francis Bach, INRIA
+  Sébastien Bubeck, Microsoft Research
+  Yin Tat Lee, Microsoft Research and University of Washington
+  Laurent Massoulié, INRIA and MSR-INRIA Joint Centre
+ 2018, , Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes
+  Hassan Ashtiani, McMaster University and Vector Institute
+  Shai Ben-David, University of Waterloo
+  Nick Harvey, University of British Columbia
+  Christopher Liaw, University of British Columbia
+  Abbas Mehrabian, McGill University
+  Yaniv Plan, University of British Columbia
+ 2018, , Neural Ordinary Differential Equations
+  Tian Qi Chen, University of Toronto and Vector Institute
+  Yulia Rubanova, University of Toronto and Vector Institute
+  Jesse Bettencourt, University of Toronto and Vector Institute
+  David Duvenaud, University of Toronto and Vector Institute
+ 2017, , Safe and Nested Subgame Solving for Imperfect-Information Games
+  Noam Brown, Carnegie Mellon University
+  Tuomas Sandholm, Carnegie Mellon University
+ 2017, , Variance-based Regularization with Convex Objectives
+  Hongseok Namkoong, Stanford University
+  John Duchi, Stanford University
+ 2017, , A Linear-Time Kernel Goodness-of-Fit Test
+  Wittawat Jitkrittum, University College London
+  Wenkai Xu, University College London
+  Zoltan Szabo, École Polytechnique
+  Kenji Fukumizu, The Institute of Statistical Mathematics
+  Arthur Gretton, University College London
+ 2016, ,  Value Iteration Networks
+  Aviv Tamar, University of California Berkeley
+  Yi Wu, University of California Berkeley
+  Garrett Thomas, University of California Berkeley
+  Sergey Levine, University of California Berkeley
+  Pieter Abbeel, University of California Berkeley
+ 2015, , Competitive Distribution Estimation: Why is Good-Turing Good
+  Alon Orlitsky, University of California San Diego
+  Ananda Suresh, University of California San Diego
+ 2015, , Fast Convergence of Regularized Learning in Games »
+  Vasilis Syrgkanis, Microsoft Research
+  Alekh Agarwal, Microsoft Research
+  Haipeng Luo, Princeton University
+  Robert Schapire, Microsoft Research
+ 2014, , Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)
+  Anshumali Shrivastava, Cornell University
+  Ping Li, Rutgers University
+ 2014, , A* Sampling
+  Christopher Maddison, University of Toronto
+  Daniel Tarlow, Microsoft Research
+  Tom Minka, Microsoft Research
+ 2013, , A memory frontier for complex synapses
+  Subhaneil Lahiri, Stanford University)
+  Surya Ganguli, Stanford University
+ 2013, , Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints
+  Rishabh Iyer, University of Washington, Seattle
+  Jeff Bilmes, University of Washington, Seattle
+ 2013, , Scalable Influence Estimation in Continuous-Time Diffusion Networks
+  Nan Du, Georgia Tech
+  Le Song, Georgia Tech
+  Manuel Gomez-Rodriguez, Max-Planck Institute for Intelligent Systems
+  Hongyuan Zha, Georgia Tech
 nsdi, NSDI (Networking)
+ 2019, , Datacenter RPCs can be General and Fast
+  Anuj Kalia, Carnegie Mellon University
+  Michael Kaminsky, Intel Labs
+  David Andersen, Carnegie Mellon University
  2018, , NetChain: Scale-Free Sub-RTT Coordination
   Xin Jin, Johns Hopkins University
   Xiaozhou Li, Barefoot Networks
@@ -4042,6 +4426,22 @@ nsdi, NSDI (Networking)
   David Culler, University of California Berkeley
   Scott Shenker, University of California Berkeley
 infocom, INFOCOM (Networking)
+ 2019, , RF-Mehndi: A Fingertip Profiled RF Identifier
+  Cui Zhao, Jiaotong University
+  Zhenjiang Li, University of Hong Kong
+  Han Ding, Jiaotong University
+  Jinsong Han, Zhejiang University and Institute of Cyber Security Research
+  Wei Xi, Jiaotong University
+  Ting Liu, Jiaotong University
+  Ruowei Gui, Jiaotong University
+ 2019, , Counterintuitive Characteristics of Optimal Distributed LRU Caching Over Unreliable Channels
+  Guocong Quan, Ohio State University
+  Jian Tan, Ohio State University
+  Atilla Eryilmaz, Ohio State University
+ 2019, , Combinatorial Sleeping Bandits with Fairness Constraints
+  Fengjiao Li, Temple University
+  Jia Liu, Iowa State University
+  Bo Ji, Temple University
  2018, , Understanding Ethereum via Graph Analysis
   Ting Chen, University of Electronic Science and Technology of China
   Yuxiao Zhu, Guangdong University of Technology
@@ -4152,6 +4552,10 @@ infocom, INFOCOM (Networking)
  1996, , An algorithm for multicast tree generation in networks with asymmetric links
   Ram Ramanathan, BBN Technologies
 soda, SODA (Theory)
+ 2019, , Sublinear Algorithms for (Δ + 1) Vertex Coloring
+  Sepehr Assadi, University of Pennsylvania
+  Yu Chen, University of Pennsylvania
+  Sanjeev Khanna, University of Pennsylvania
  2018, , Approaching 3/2 for the s-t-path TSP
   Vera Traub, Universit&auml;t Bonn
   Jens Vygen, Universit&auml;t Bonn
@@ -4389,6 +4793,9 @@ sigcomm, SIGCOMM (Networking)
   Shyamnath Gollakota, Massachusetts Institute of Technology
   Dina Katabi, Massachusetts Institute of Technology
 sigmetrics, SIGMETRICS (Performance)
+ 2019, , Computationally Efficient Estimation of the Spectral Gap of a Markov Chain
+  Richard Combes, Centrale-Supelec
+  Mikael Touati, Orange Labs
  2018, , A Refined Mean Field Approximation
   Nicolas Gast, Inria
   Benny Van Houdt, University of Antwerp
@@ -4460,6 +4867,28 @@ sigmetrics, SIGMETRICS (Performance)
   Mor Harchol-Balter, University of California Berkeley
   Allen B. Downey, University of California Berkeley
 mobicom, MOBICOM (Mobile)
+ 2019, , eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User’s Ear
+  Nam Bui, University of Colorado Boulder
+  Nhat Pham, University of Colorado Boulder
+  Jessica Jacqueline Barnitz, University of Colorado Boulder
+  Phuc Nguyen, University of Colorado Boulder
+  Hoang Truong, University of Colorado Boulder
+  Taeho Kim, University of Colorado Boulder
+  Anh Nguyen, University of Colorado Boulder
+  Zhanan Zou, University of Colorado Boulder
+  Nicholas Farrow, University of Colorado Boulder
+  Jianliang Xiao, University of Colorado Boulder
+  Robin Deterding, Children's Hospital Colorado
+  Thang Dinh, Virginia Commonwealth University
+  Tam Vu, University of Colorado Boulder
+ 2019, , FLUID: Flexible User Interface Distribution for Ubiquitous Multi-device Interaction
+  Sangeun Oh, KAIST
+  Ahyeon Kim, KAIST
+  Sunjae Lee, KAIST
+  Kilho Lee, KAIST
+  Dae R. Jeong, KAIST
+  Steven Y. Ko, University at Buffalo, and The State University of New York
+  Insik Shin, KAIST
  2018, , SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE Networks
   Mehrdad Moradi, University of Michigan
   Karthikeyan Sundaresan, NEC Labs America
