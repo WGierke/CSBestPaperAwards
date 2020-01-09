@@ -212,7 +212,7 @@ aaai, AAAI (Artificial Intelligence)
  2019, , How to Combine Tree-Search Methods in Reinforcement Learning
   Yonathan Efroni, Technion
   Gal Dalal, Technion
-  Bruno Scherrer, INRIA, Villers les Nancy
+  Bruno Scherrer, INRIA
   Shie Mannor, Technion
  2018, , Memory-Augmented Monte Carlo Tree Search
   Chenjun Xiao, University of Alberta
@@ -454,7 +454,7 @@ chi, CHI (Human-Computer Interaction)
   Max Kr&uuml;ger, University of Siegen
   Kaoru Misaki, University of Siegen
   David Randall, University of Siegen
-  Volker Wulf, Institute of Information Systems and New Media, Siegen, Germany
+  Volker Wulf, Institute of Information Systems and New Media
  2019, , Investigating Slowness as a Frame to Design Longer-Term Experiences with Personal Data: A Field Study of Olly
   William Odom, Simon Fraser University
   Ron Wakkary, Eindhoven University of Technology & Simon Fraser University
@@ -577,7 +577,7 @@ chi, CHI (Human-Computer Interaction)
   Elisa D Mekler, University of Basel
   Kasper Hornbæk, University of Copenhagen
  2019, , Managerial Visions: Stories of upgrading and maintaining the public restroom with IoT
-  Sarah Fox, University of California, San Diego
+  Sarah Fox, University of California San Diego
   Kiley Sobel, University of Washington
   Daniela Rosner, University of Washington
  2019, , Social Play in an Exergame: How the Need to Belong Predicts Adherence
@@ -2395,7 +2395,7 @@ acl, ACL (Natural Language Processing)
  2019, , Bridging the Gap between Training and Inference for Neural Machine Translation.
   Wen Zhang, Chinese Academy of Sciences and University of Chinese Academy of Sciences
   Yang Feng, Chinese Academy of Sciences and University of Chinese Academy of Sciences
-  Fandong Meng, Pattern Recognition Center, WeChat AI, Tencent Inc
+  Fandong Meng, Pattern Recognition Center and WeChat AI and Tencent Inc
   Di You, Worcester Polytechnic Institute
   Qun Liu, Huawei Noah’s Ark Lab
  2018, , Finding syntax in human encephalography with beam search
@@ -3878,7 +3878,7 @@ fse, FSE (Software Engineering)
 cvpr, CVPR (Computer Vision)
  2019, , A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction
   Shumian Xin, Carnegie Mellon University 
-  Sotiris Nousias, University of Toronto, University College London
+  Sotiris Nousias, University of Toronto and University College London
   Kiriakos N. Kutulakos, University of Toronto
   Aswin C. Sankaranarayanan, Carnegie Mellon University
   Srinivasa G. Narasimhan, Carnegie Mellon University 
@@ -4270,8 +4270,8 @@ neurips, NeurIPS (Machine Learning)
   Subhaneil Lahiri, Stanford University)
   Surya Ganguli, Stanford University
  2013, , Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints
-  Rishabh Iyer, University of Washington, Seattle
-  Jeff Bilmes, University of Washington, Seattle
+  Rishabh Iyer, University of Washington
+  Jeff Bilmes, University of Washington
  2013, , Scalable Influence Estimation in Continuous-Time Diffusion Networks
   Nan Du, Georgia Tech
   Le Song, Georgia Tech
@@ -4887,7 +4887,7 @@ mobicom, MOBICOM (Mobile)
   Sunjae Lee, KAIST
   Kilho Lee, KAIST
   Dae R. Jeong, KAIST
-  Steven Y. Ko, University at Buffalo, and The State University of New York
+  Steven Y. Ko, University at Buffalo and The State University of New York
   Insik Shin, KAIST
  2018, , SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE Networks
   Mehrdad Moradi, University of Michigan
