@@ -116,7 +116,7 @@ def build_doc(conferences, paper_year_count):
             bestpaper-AT-jeffhuang.com. I (Jeff Huang) tried to collect best paper awards from the top-tier conferences in
             each area, but some conferences do not have such an award (e.g. SIGGRAPH, CAV). "Distinguished paper award" and
             "outstanding paper award" are included but not "best student paper" (e.g. NIPS) or "best 10-year old paper"
-            (e.g. POPL). The list of papers for years 2017 and 2018 were collected by Mingrui Ray Zhang.""")
+            (e.g. POPL). The list of papers for years 2017 and 2018 were collected by Mingrui Ray Zhang and for 2019 by Willi Gierke.""")
             with tag('table'):
                 for conference in conferences:
                     with tag('thead'):
