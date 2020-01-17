@@ -13,7 +13,7 @@ cat rawBpa | python3 generate_html.py > index.html
 ```
 
 ## Demo
-https://wgierke.github.io/best_paper_awards
+https://wgierke.github.io/CSBestPaperAwards/
 
 ## Format
 `rawBpa` contains the data about the best papers in the format
