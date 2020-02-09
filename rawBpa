@@ -1999,12 +1999,9 @@ vldb, VLDB (Databases)
   Wee Teck Ng, University of Michigan
   Peter M. Chen, University of Michigan
 ijcai, IJCAI (Artificial Intelligence)
- 2019, , Clause Elimination for SAT and QSAT
-  Marijn Heule, Carnegie Mellon University
-  Matti J&auml;trvisalo, University of Helsinki
-  Florian Lonsing, Stanford University
-  Martina Seidl, Johannes Kepler University
-  Armin Biere, Johannes Kepler University
+ 2019, , Boosting for Comparison-Based Learning
+  Michaël Perrot, Max-Planck Institute for Intelligent Systems
+  Ulrike von Luxburg, Max-Planck Institute for Intelligent Systems and University of Tubingen
  2018, , SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
   Ke Wang, Peking University
   Xiaojun Wan, Peking University
@@ -3493,6 +3490,11 @@ icse, ICSE (Software Engineering)
   Somesh Jha, University of Wisconsin
   Helmut Veith, Technische Universit&auml;t Wien
 pods, PODS (Databases)
+ 2019, , Interventional Fairness : Causal Database Repair for Algorithmic Fairness
+  Babak Salimi, University of Washington
+  Luke Rodriguez, University of Washington
+  Bill Howe, University of Washington
+  Dan Suciu, University of Washington
  2018, , Entity Matching with Active Monotone Classification
   Yufei Tao, Chinese University of Hong Kong
  2017, , Dichotomies in Ontology-Mediated Querying with the Guarded Fragment
@@ -3585,6 +3587,13 @@ pods, PODS (Databases)
   Christos H. Papadimitriou, University of California Berkeley
   Mihalis Yannakakis, Bell Labs
 fse, FSE (Software Engineering)
+ 2019, , The importance of accounting for real-world labelling when predicting software vulnerabilities
+   Matthieu Jimenez, University of Luxembourg
+   Renaud Rwemalika, University of Luxembourg
+   Mike Papadakis, University of Luxembourg
+   Federica Sarro, University College London
+   Yves Le Le Traon, University of Luxembourg
+   Mark Harman, University College London and Facebook
  2018, , The Impact of Regular Expression Denial of Service (ReDoS) in Practice: An Empirical Study at the Ecosystem Scale
   James C. Davis, Virginia Tech
   Christy A. Coghlan, Virginia Tech
@@ -4047,6 +4056,15 @@ iccv, ICCV (Computer Vision)
   Andrew Fitzgibbon, University of Oxford
   Andrew Zisserman, University of Oxford
 pldi, PLDI (Programming Languages)
+ 2019, , An Inductive Synthesis Framework for Verifiable Reinforcement Learning
+  He Zhu, Galois Inc.
+  Zikang Xiong, Purdue University
+  Stephen Magill, Galois Inc.
+  Suresh Jagannathan, Purdue University
+ 2019, , Low-Latency Graph Streaming Using Compressed Purely-Functional Trees
+  Laxman Dhulipala, Carnegie Mellon University
+  Julian Shun, Carnegie Mellon University
+  Guy Blelloch, Carnegie Mellon University
  2018, , Program synthesis using conflict-driven learning
   Yu Feng, University of Texas at Austin
   Ruben Martins, Carnegie Mellon University
@@ -4610,6 +4628,19 @@ soda, SODA (Theory)
  2009, http://www.siam.org/proceedings/soda/2009/SODA09_047_chazelleb.pdf, Natural Algorithms
   Bernard Chazelle, Princeton University
 s&p, S&P (Security and Privacy)
+ 2019, , Spectre Attacks: Exploiting Speculative Execution
+  Paul Kocher, Independent
+  Jann Horn, Google
+  Anders Fogh, G DATA Advanced Analytics
+  Daniel Genkin, University of Pennsylvania and University of Maryland
+  Daniel Gruss, Graz University of Technology
+  Werner Haas, Cyberus Technology
+  Mike Hamburg, Rambus
+  Moritz Lipp, Graz University of Technology
+  Stefan Mangard, Graz University of Technology
+  Thomas Prescher, Cyberus Technology
+  Michael Schwarz, Graz University of Technology
+  Yuval Yarom, University of Adelaide and Data61
  2018, , On Enforcing the Digital Immunity of a Large Humanitarian Organization
   Stevens Le Blond, &Eacute;cole Polytechnique F&eacute;d&eacute;rale de Lausanne
   Alejandro Cuevas, &Eacute;cole Polytechnique F&eacute;d&eacute;rale de Lausanne
@@ -4698,6 +4729,9 @@ s&p, S&P (Security and Privacy)
   Tadayoshi Kohno, University of Washington
   William H. Maisel, Harvard University
 sigcomm, SIGCOMM (Networking)
+ 2019, , Underwater Backscatter Networking
+   Junsu Jang, MIT
+   Fadel Adib, MIT
  2018, , Inferring Persistent Interdomain Congestion 
   Saksham Agarwal, Cornell University
   Shijin Rajakrishnan, Cornell University
